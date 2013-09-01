@@ -19,7 +19,7 @@ Grades will be based on the following components:
   * reviews of other students’ paper proposals (**10%**),
   * a course “patch” (**10%**, see below).
 
-### Contribution to Class Discussion — 15%
+### Contribution to Class Discussion — 20%
 
 As the course will be taught in the form of a seminar, students will
   be graded for their contribution to the class discussion.
@@ -41,7 +41,7 @@ Students who have difficulty speaking in public should see the
   instructor early in the semester, so that we could discuss possible
   remedies.
 
-### Memos — 15%
+### Memos — 10%
 
 For all classes other than the first and the last, half of the students will
 prepare "memos" based on the assigned readings on alternate classes i.e. Half the 
