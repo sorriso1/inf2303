@@ -1,4 +1,3 @@
-
 - week : 1        
   classes :
   
@@ -378,39 +377,35 @@
       no_class : Yuri at ASA in New York
   
     - date : Wednesday, August 14
-      title : Adoption Case Studies
+      title : F/OSS in Libraries 
       summary : |        
-        In this class we'll be looking at a few specific cases of FOSS adoption.
+        This class looks at the application of F/OSS in the library setting, in terms of the backend software and user participation.
       readings :
       - bib : |
-          Brian Fitzgerald, Jay P. Kesan, Barbara Russo, Maha Shaikh, and Giancarlo Succi (2011).
-          “Hibernia Hospital.” Chapter 3 in *Adopting Open Source Software: A Practical Guide*. Cambridge, MA: The MIT Press.
-        availability :
+          Marshell Breeding (2009).
+          “The Viability of Open Source ILS”. Bulletin of the American Society for Information Science and Technology." 
+        
+         availability: 
           - type : electronic
-            url : http://site.ebrary.com.myaccess.library.utoronto.ca/lib/utoronto/docDetail.action?docID=10509225
-            bitly : http://bit.ly/16zCzBd
+            url : http://http://www.asis.org/Bulletin/Dec-08/DecJan09_Breeding.pdf
+            
       - bib : |
-          Mat Wall (2011). “Why I chose MongoDB for guardian.co.uk.” (VIDEO)
-          **Watch from the beginning until you get lost, then skipt to 17 minutes and watch until you get lost again.**
+          Carla P Wale (2011)
+          "Cloudy with a Chance of Open Source?: An Examination of Open Source Integrated Library Systems."
+          
         availability :
           - type : electronic
-            url: http://www.infoq.com/presentations/Why-I-Chose-MongoDB-for-Guardian
-            bitly: http://bit.ly/130uuXc
-      - bib: |
-          Joab Jackson (2011).
-          “MongoDB competes on speed and flexibility." PCWorld.com
+            url: http://https://lib.law.washington.edu/lawlibrarianship/CILLPapers/Wale2011.pdf
+          
+            
+            - bib : |
+          An example of an open source library; "Open Library" 
+       
         availability :
           - type : electronic
-            url: http://www.pcworld.com/article/229844/article.html
-            bitly: http://bit.ly/11MmJBt
-      - bib: |
-          Klint Finley (2013).
-          “NoSQL database MongoDB reaches beyond software coders.” Wired.com.
-        availability :
-          - type : electronic
-            url : http://www.wired.com/wiredenterprise/2013/03/mongodb-enterprise/
-            bitly : http://bit.ly/14yukYj
-
+            url: http://www.openlibrary.org
+      
+      -
 - week : 7
 
   classes :
