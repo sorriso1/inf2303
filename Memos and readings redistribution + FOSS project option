@@ -13,8 +13,8 @@ Students are expected to take responsibility for their learning of the
 
 Grades will be based on the following components:
 
-  * preparation for the class (“memos,” **15%** of the course grade),
-  * contribution to class discussion (**15%**),
+  * preparation for the class (“memos,” **10%** of the course grade),
+  * contribution to class discussion (**20%**),
   * the term paper (three deliverables jointly worth **50%**),
   * reviews of other students’ paper proposals (**10%**),
   * a course “patch” (**10%**, see below).
@@ -116,6 +116,12 @@ Here are some examples of appropriate topics:
 
 <i>The list above is meant to exemplify appropriate topics and is not
   exhaustive.</i>
+  
+  Alternatively, students who wish to participate in current FOSS projects can do 
+  so in lieu of writing a paper as described above. If this option is taken, students 
+  must non-trivial contributions to a current FOSS project over the course of this class. 
+  It is important to note that a paper proposal, presentation and final paper are required
+  are required in this option. 
 
 Due to the short duration of the course, students should start working
   on their papers <span class="important">very early</span>, ideally
@@ -131,18 +137,23 @@ The teams will share their paper proposals with the rest of the class
 The **main text** of the proposal should be up to 2 pages long and
   should answer the following questions:
 
-* What is the topic that the paper will focus on?
+* What is the topic that the paper will focus on?/What FOSS project you will work on? 
+(either a specific one or 2 or 3 projects that seem interesting)
+
 * Why is this topic interesting in the context of this course?
 * What claims do you expect to make in this paper and how do you
-  expect to support them?
+  expect to support them? And an overview of your intended contributions and how they 
+  contribute to the project. 
 
-Your proposal should also include a **2 page annotated bibliography** of the
+Your proposal should also include a **2 page annotated bibliography (1 page for FOSS project) ** of the
   sources you intend to use.
 Each source should be accompanied by a brief description, stating what
   it is about and how you plan to use it.
 
 Paper proposals will not receive individual grades, but will be graded
   together with the final paper.
+  
+  
 
 
 #### Final Presentation
